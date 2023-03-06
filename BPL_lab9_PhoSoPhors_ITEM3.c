@@ -1,8 +1,9 @@
 //
 // Subject                  : BPL - Lab 9
-// Department ans Class     : ITE-M3
+// Department and Class     : ITE-M3
 // Instrutor                : Dr. Kor SokChea
 // Name                     : Pho SoPhors
+// Date                     : November 8, 2021
 //
 
 #include<stdio.h>
