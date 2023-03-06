@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/apple/Desktop/Create_Set_In_C_Programming",
+      "program": "/Users/apple/Desktop/Create_Set_In_C_Programming/build/Debug/outDebug"
+    }
+  ]
+}
